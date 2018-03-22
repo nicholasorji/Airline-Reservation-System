@@ -1,7 +1,7 @@
 # Airline-Reservation-System
 Virtual Airline System using Python and MySQL
 
-# This is a virtual Airline Reservation System. You can enter you information into the Python program and use store them in th edatabase created by the SQL file.
+# This is a virtual Airline Reservation System. You can enter you information into the Python program and store them in th edatabase created by the SQL file.
 
 # Tools used to make this system:
 ## - Python
